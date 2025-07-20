@@ -94,7 +94,7 @@ And here is the original image for comparison.
   <img src="./Image (10).png" width="100%">
 </p>
 
-> PS: Open the 2 images in seperate tabs (and switch between them) to see the difference more clearly.
+> Tip: Open the 2 images in seperate tabs (and switch between them) to see the difference more clearly.
 
 ---
 
