@@ -28,7 +28,7 @@ Navigate to your desired folder in the system's file explorer and open it.
 
 ### Step 3: View Your Library
 
-Once loaded, RapidRAW will display all the images from your folder in the filmstrip at the bottom. This is your main library view.
+Once loaded, RapidRAW will display all the images from folder in the main library view.
 
 <p align="center">
   <img src="./Image (3).png" width="50%">
@@ -38,7 +38,7 @@ Once loaded, RapidRAW will display all the images from your folder in the filmst
 
 ### Step 4: Open an Image and Make Basic Adjustments
 
-Double-click an image in the filmstrip to open it in the main editor. The image below is the original, unedited RAW file.
+Double-click an image to open it in the main editor. The image below is the original, unedited RAW file.
 
 <p align="center">
   <img src="./Image (4).png" width="50%">
